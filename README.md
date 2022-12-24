@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Freek
-- 👀 I’m interested in Artificial Intelligence projects
+- 👀 I’m mostly doing university projects here
 - 🌱 Master's student Artificial Intelligence at the Radboud University
 - 📫 Reach me at: freek.hens@ru.nl
 
