@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Freek
-- 👀 I’m mostly doing university projects here
+- 👀 I’m mostly doing university projects here (and here: https://gitlab.socsci.ru.nl/Freek.Hens)
 - 🌱 Master's student Artificial Intelligence at the Radboud University
 - 📫 Reach me at: freek.hens@ru.nl
 
