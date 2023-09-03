@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Freek
-- 👀 I’m mostly doing university projects here (and here: https://gitlab.socsci.ru.nl/Freek.Hens)
-- 🌱 Master's student Artificial Intelligence (Cognitive Computing) at the Radboud University
+- 👀 University and personal projects 
+- 🌱 MSc Artificial Intelligence student (Cognitive Computing) at the Radboud University
 - 📫 Reach me at: freek.hens@ru.nl
 
 <!---
