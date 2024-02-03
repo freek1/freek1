@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Freek, BSc
 - 👀 University and personal projects 
-- 🌱 MSc Artificial Intelligence student (Cognitive Computing) at the Radboud University
+- 📚 MSc Artificial Intelligence student (Cognitive Computing) at the Radboud University
 - 📫 Reach me at: freek.hens@ru.nl
 
 <!---
