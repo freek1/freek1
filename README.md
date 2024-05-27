@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Freek, BSc
+- 👋 Hi, I’m Freek, BSc AI
 - 👀 University and personal projects 
 - 📚 MSc AI student (Cognitive Computing) at the Radboud University
 - 👷 Working as Junior Data Scientist at Hammer
