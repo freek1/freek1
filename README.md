@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Freek, BSc AI
+- 👋 Hi, I’m Freek, MS AI
 - 👀 University and personal projects 
-- 📚 MSc AI student (Cognitive Computing) at the Radboud University
+- 📚 Exchange Student (MS) in Australia
 - 👷 Working as Junior Data Scientist at Hammer
 - 📫 Reach me at: freek.hens@ru.nl
 
