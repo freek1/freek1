@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Freek, MS AI
 - 👀 University and personal projects 
 - 📚 Exchange Student (MS) in Australia
-- 👷 Working as Junior Data Scientist at Hammer
+- 👷 Working as Junior Data Scientist
 - 📫 Reach me at: freek.hens@ru.nl
 
 <!---
