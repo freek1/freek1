@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Freek, MS AI and BS AI
+- 📚 Read my paper published in [IEEE Transactions](https://ieeexplore.ieee.org/document/10908225)!
 - 👷 Working as Data Scientist
 
 <!---
