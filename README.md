@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Freek, MS AI
-- 👀 University and personal projects 
-- 👷 Working as Junior Data Scientist
+- 👋 Hi, I’m Freek, MS AI and BS AI
+- 👷 Working as Data Scientist
 
 <!---
 freek1/freek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
